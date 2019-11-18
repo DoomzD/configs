@@ -1,0 +1,36 @@
+{
+    "window.zoomLevel": 1,
+
+    "editor.fontSize": 18,
+    "debug.console.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+
+    "editor.tabSize": 2,
+
+    "editor.wordWrapColumn": 100,
+    "editor.wordWrap": "wordWrapColumn",
+
+    "merge-conflict.autoNavigateNextConflict.enabled": true,
+    
+    "remote.SSH.defaultExtensions": [
+        "ms-vscode.cpptools",
+        "ms-azuretools.vscode-docker",
+        "ms-python.python",
+        "redhat.vscode-yaml"
+    ],
+
+    "rewrap.autoWrap.enabled": true,
+    "rewrap.doubleSentenceSpacing": true,
+    "rewrap.reformat": true,
+
+    "git.allowForcePush": true,
+    "git.alwaysSignOff": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.autoStash": true,
+    "editor.autoClosingOvertype": "always",
+    "workbench.colorTheme": "One Dark Pro",
+    "files.trimTrailingWhitespace": true,
+    "gitlens.codeLens.enabled": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "C_Cpp.updateChannel": "Insiders"
+}
